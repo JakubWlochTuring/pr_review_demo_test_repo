@@ -25,4 +25,6 @@ def test_create_user():
 
 def test_delete_user():
     user_data = {}
-    
+
+def test_pr_review:
+    return
