@@ -22,3 +22,9 @@ def test_create_user():
     assert data["username"] == user_data["username"]
     assert data["email"] == user_data["email"]
     assert "password" not in data
+
+def test_delete_user():
+    user_data = {}
+
+def test_pr_review:
+    return
