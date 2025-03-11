@@ -28,3 +28,6 @@ def test_delete_user():
 
 def test_pr_review:
     return
+
+def test_something(new):
+    return {}
